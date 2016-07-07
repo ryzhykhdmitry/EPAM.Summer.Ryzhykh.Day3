@@ -1,0 +1,7 @@
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\bin\Debug\BitAdder.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\bin\Debug\BitAdder.pdb
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\obj\Debug\BitAdder.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\obj\Debug\BitAdder.pdb
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\bin\Debug\nunit.framework.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\bin\Debug\nunit.framework.xml
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\EPAM.Summer.Ryzhykh.Day3\BitAdder\obj\Debug\BitAdder.csprojResolveAssemblyReference.cache
