@@ -12,7 +12,7 @@ namespace BitAdder.NUnitTests
     [TestFixture]
     public class NUnitTest
     {
-        [Test, TestCaseSource(typeof(MyDataClass), "TestCases")]
+        [Test, TestCaseSource(typeof(DataClass), "TestCases")]
         public void SummTwoNumbersParts_Summ255And853_Int863(int number1, int number2, int startPosition, int endPosition, int result)
         {
             Assert.That(Adder.insertIntoPosition(number1, number2, startPosition, endPosition), Is.EqualTo(result));
@@ -24,14 +24,14 @@ namespace BitAdder.NUnitTests
             Assert.That(Adder.insertIntoPosition(106, 106, 2, 5), Is.EqualTo(106));
         }
        
-        [Test, TestCaseSource(typeof(MyDataClass), "ExceptionTestCases")]
+        [Test, TestCaseSource(typeof(DataClass), "ExceptionTestCases")]
         public void SummTwoNumbersParts_WrongPositionValues_ArgumentException(int number1, int number2, int startPosition, int endPosition)
         {
             Assert.That(() => { Adder.insertIntoPosition( number1, number2, startPosition, endPosition); } , Throws.TypeOf<ArgumentException>());
         }
            
     }
-    public class MyDataClass
+    public class DataClass
     {
         public static IEnumerable ExceptionTestCases
         {
